@@ -1,0 +1,8 @@
+# Sản phẩm sinh ra khi chạy benchmark (mỗi máy tự tạo lại)
+benchmark/chay/
+
+# Hồ sơ bàn giao nếu chạy dây chuyền ngay trong thư mục này
+.bangiao/
+
+# Cấu hình Claude Code cục bộ của người dùng (bản chuẩn nằm ở agents/ và commands/)
+.claude/

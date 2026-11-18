@@ -1,0 +1,3 @@
+# Giữ LF cho mọi file văn bản trên mọi máy.
+# Git cho Windows mặc định đổi LF -> CRLF khi checkout; cai-dat.sh có CRLF sẽ lỗi khi chạy bằng bash.
+* text=auto eol=lf
